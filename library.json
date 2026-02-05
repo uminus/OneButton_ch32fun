@@ -1,0 +1,22 @@
+{
+  "name": "OneButton_ch32fun",
+  "version": "0.1.0",
+  "description": "OneButton for CH32V/ch32fun: simple pushbutton handling with debounce.",
+  "keywords": "ch32fun, button, pushbutton",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/uminus/OneButton_ch32fun.git"
+  },
+  "authors":
+  [
+    {
+      "name": "uminus",
+      "url": "https://github.com/uminus",
+      "maintainer": true
+    }
+  ],
+  "license": "BSD-3-Clause",
+  "frameworks": "ch32v003fun",
+  "platforms": "ch32v"
+}
