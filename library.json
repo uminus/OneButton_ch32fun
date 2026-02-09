@@ -1,6 +1,6 @@
 {
   "name": "OneButton_ch32fun",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "OneButton for CH32V/ch32fun: simple pushbutton handling with debounce.",
   "keywords": "ch32fun, button, pushbutton",
   "repository":
